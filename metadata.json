@@ -1,0 +1,6 @@
+{
+  "name": "GovBridge — SIH 2026 Interactive Prototype",
+  "description": "Smart, transparent citizen-to-government service delivery & grievance redressal portal with digital verification connectors, instant OTP authentication, application lifecycle tracking, and official administrative adjudication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
